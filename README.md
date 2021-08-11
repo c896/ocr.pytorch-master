@@ -6,3 +6,5 @@
 - checkpoints 存放模型参数文件 百度网盘下载
 - test_images 测试图片文件 百度网盘下载
 - test_result 测试结果文件 百度网盘下载
+- train_code 训练文件 百度网盘下载
+- 验证码生成器 补充train_code中的CRNN训练集 百度网盘下载
